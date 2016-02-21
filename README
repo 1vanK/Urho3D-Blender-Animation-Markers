@@ -1,7 +1,7 @@
 Animation markers exporter for Urho3D Engine (support "All actions")
 Version: 1.0
 
-This is Blender addon for helps you create event animation markers
+This is Blender addon for helps you create event animation markers (Blender markers -> Urho3D trigges)
 Blender has two(?) type markers:
 1. local (Actions markers)
 2. scenes (whole scene timeline marker)
